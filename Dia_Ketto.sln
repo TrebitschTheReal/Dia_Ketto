@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dia_Ketto", "Dia_Ketto\Dia_Ketto.csproj", "{F8A421E9-FDE4-456D-BBB2-1036D7EADE07}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CelsiusToFahrenheit", "Dia_Ketto\CelsiusToFahrenheit.csproj", "{F8A421E9-FDE4-456D-BBB2-1036D7EADE07}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

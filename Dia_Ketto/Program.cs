@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Dia_Ketto
 {
@@ -10,9 +6,14 @@ namespace Dia_Ketto
     {
         static void Main(string[] args)
         {
+            var FirstTemperatureValue = new ConvertToFarenheit(27.6);
+
+            Console.WriteLine(FirstTemperatureValue.FahrenheitOut);
 
 
 
+
+            Console.ReadLine();
         }
     }
 }
