@@ -10,6 +10,9 @@ namespace Dia_Ketto
     {
         static void Main(string[] args)
         {
+
+
+
         }
     }
 }
